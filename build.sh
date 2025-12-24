@@ -6,7 +6,7 @@
 set -e
 
 TOOLCHAIN_PATH=$HOME/zyc-clang/bin
-GIT_COMMIT_ID=$(git rev-parse --short=8 HEAD)
+GIT_COMMIT_ID=$(git rev-parse --short=7 HEAD)
 TARGET_DEVICE=$1
 
 if [ -z "$1" ]; then
@@ -111,7 +111,7 @@ git clone https://github.com/liyafe1997/AnyKernel3 -b kona --single-branch --dep
 
 # Add date to local version
 local_version_str="-perf"
-local_version_date_str="-aptusitu-$(date +%Y%m%d)-${GIT_COMMIT_ID}-perf"
+local_version_date_str="-perf-g${GIT_COMMIT_ID}"
 
 sed -i "s/${local_version_str}/${local_version_date_str}/g" arch/arm64/configs/${TARGET_DEVICE}_defconfig
 
