@@ -9,6 +9,11 @@ TOOLCHAIN_PATH=$HOME/zyc-clang/bin
 GIT_COMMIT_ID=$(git rev-parse --short=7 HEAD)
 TARGET_DEVICE=$1
 
+# Custom kernel build timestamp (to avoid "custom kernel detected" warning)
+# Set to a fixed date/time to make the kernel appear as if built at that time
+# Comment out the line below to use the actual build time
+export KBUILD_BUILD_TIMESTAMP="2009-01-01 08:00:00"
+
 if [ -z "$1" ]; then
     echo "Error: No argument provided, please specific a target device." 
     echo "If you need KernelSU, please add [ksu] as the second arg."
