@@ -15,7 +15,7 @@
 | **内核版本** | 4.19.325 |
 | **内核架构** | non-GKI |
 
-最后更新时间：2025-12-24
+**最后更新时间：2025-12-24**
 
 所需环境和模块：
 1. SukiSU Ultra v4.1.0
@@ -33,40 +33,40 @@ https://github.com/MMRLApp/WebUI-X-Portable
 7. HMA-OSS voss-135
 https://github.com/frknkrc44/HMA-OSS
 
-环境过检测测试
+环境过检测测试 ✅
 
 0. SukiSU Ultra v4.1.0
-![SukiSU Ultra](screenshots/Screenshot_2025-12-24-12-26-52-285_com.sukisu.ultra.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-26-52-285_com.sukisu.ultra.jpg" width="360">
 
 1. Duck Detector v1.6.3
-![Duck Detector](screenshots/Screenshot_2025-12-24-12-13-04-754_com.studio.duckdetector.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-13-04-754_com.studio.duckdetector.jpg" width="360">
 
 2. 密钥认证 v2.0.3
-![密钥认证](screenshots/Screenshot_2025-12-24-12-13-19-188_wu.keyChain.test.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-13-19-188_wu.keyChain.test.jpg" width="360">
 
 3. Native Test ++
-![Native Test ++](screenshots/Screenshot_2025-12-24-12-13-30-567_icu.nullptr.nativetest.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-13-30-567_icu.nullptr.nativetest.jpg" width="360">
 
 4. Native Detector v7.6.1
-![Native Detector](screenshots/Screenshot_2025-12-24-12-13-44-956_com.reveny.nativecheck.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-13-44-956_com.reveny.nativecheck.jpg" width="360">
 
 5. CrackME v2.9.5
-![CrackME](screenshots/Screenshot_2025-12-24-12-14-00-485_com.kikyps.crackme.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-14-00-485_com.kikyps.crackme.jpg" width="360">
 
 6. Hunter v6.52
-![Hunter](screenshots/Screenshot_2025-12-24-12-14-14-773_com.zhenxi.hunter.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-14-14-773_com.zhenxi.hunter.jpg" width="360">
 
 7. Luna v1.4.2.7
-![Luna](screenshots/Screenshot_2025-12-24-12-14-29-551_luna.safe.luna.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-14-29-551_luna.safe.luna.jpg" width="360">
 
 8. Disclosure v1.3
-![Disclosure](screenshots/Screenshot_2025-12-24-12-14-40-394_com.rem01gaming.disclosure.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-14-40-394_com.rem01gaming.disclosure.jpg" width="360">
 
 9. Simple Play Integrity Checker v1.4.0
-![Simple Play Integrity Checker](screenshots/Screenshot_2025-12-24-12-16-33-501_com.henrikherzig.playintegritychecker.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-16-33-501_com.henrikherzig.playintegritychecker.jpg" width="360">
 
 10. Play Integrity API Checker v2.2
-![Play Integrity API Checker](screenshots/Screenshot_2025-12-24-12-16-42-908_gr.nikolasspyr.integritycheck.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-16-42-908_gr.nikolasspyr.integritycheck.jpg" width="360">
 
 11. Google Play 商店 v48.8.07
-![Google Play 商店](screenshots/Screenshot_2025-12-24-12-16-54-614_com.android.vending.jpg)
+<img src="screenshots/Screenshot_2025-12-24-12-16-54-614_com.android.vending.jpg" width="360">
